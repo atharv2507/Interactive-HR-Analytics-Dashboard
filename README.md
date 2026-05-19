@@ -13,4 +13,4 @@ This project is an interactive HR dashboard built using Tableau to analyze emplo
 - Better job satisfaction reduces attrition
 
 ## 🔹 Dashboard Preview
-![Dashboard](Screenshot (150).png)
+Screenshot (150).png
