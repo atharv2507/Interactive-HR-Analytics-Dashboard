@@ -6,7 +6,7 @@ This project is an interactive HR dashboard built using Tableau to analyze emplo
 ## 🔹 Tools Used
 - Tableau
 - Excel
-
+- Power BI
 ## 🔹 Key Insights
 - High attrition in Sales roles
 - Younger employees (18–25) have higher attrition
